@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install nikita_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+NikitaViewTool::Renderer.copyright "Nikita", "All rights reserved"
+```
 
 ## Development
 
